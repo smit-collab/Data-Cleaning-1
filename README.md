@@ -1,8 +1,9 @@
 ## Data-Cleaning-1
 
 ## Dependencies
- pandas 
- numpy 
+
+ 1. pandas 
+ 2. numpy 
  
  
 ## Introduction
